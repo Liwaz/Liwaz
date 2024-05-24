@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Liwaz
-- 👀 I’m interested in a decentralized government system
-- 🌱 I’m currently learning the BASICS!
-- 📫 How to reach me @ trongarage@gmail.com
+- 👀 I’m interested in a fiar and equitable society
+- 🌱 I’m currently getting a Certificate in Electrical and Electronics Engineering!
+- 📫 Reach me @ trongarage@gmail.com
 
 <!---
 Liwaz/Liwaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
